@@ -1,7 +1,8 @@
 ## Olá!! Eu sou o Patrick Daniel
 
-![](https://github-readme-stats.vercel.app/api?username=oPatrickDaniel&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oPatrickDaniel&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oPatrickDaniel&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
